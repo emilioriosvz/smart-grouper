@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "cld": "^2.4.8",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "natural": "^0.5.6"
   },
   "devDependencies": {
